@@ -30,6 +30,7 @@ function resta(num1, num2) {
     alert("La Resta es: " + resultado)
 }
 
+
 function Escribir(P_N) {
     //var numero = document.getElementById("btnUno").innerText;
     var pantalla = document.getElementById("txtResultado");
