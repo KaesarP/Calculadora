@@ -1,0 +1,29 @@
+input {
+    background-color: lightgreen;
+    color: black;
+    font-weight: bold;
+}
+
+#txtNombre {
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+}
+
+#txtApellido {
+    background-color: darkgreen;
+    color: black;
+    font-weight: bold;
+}
+
+label {
+    font-size: 20px;
+    color: blue;
+}
+
+button {
+    background-color: lightblue;
+    color: black;
+    font-weight: bold;
+    height: 70px;
+}
